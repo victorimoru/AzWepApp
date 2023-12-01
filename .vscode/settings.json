@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7fefd6ac-a281-45d2-aaf8-43e8f930c70a/resourceGroups/AzureDemo/providers/Microsoft.Web/sites/firstazuredemo"
+}
